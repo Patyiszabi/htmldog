@@ -1,0 +1,28 @@
+table{
+    text-align: center;
+    border: 1px solid black;
+    padding-left: 300px;
+}
+table, th, td {
+    border: 1px solid;
+  }
+
+img{
+    height: 50px;
+    width: 75px;
+}
+
+h1{
+    text-align: center;
+}
+
+body{
+    text-align: justify;
+    background-color: darkgray;
+}
+h2{
+    margin-left: 50px;
+}
+li{
+    margin-left: 35px;
+}
